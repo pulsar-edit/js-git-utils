@@ -1,0 +1,16 @@
+{
+  "name": "js-git-utils",
+  "version": "1.0.0",
+  "description": "A package for using Git repositories - Written purely in JS.",
+  "main": "./src/git.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/pulsar-edit/js-git-utils",
+  "keywords": [],
+  "author": "confused-Techie",
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-git": "^1.21.0"
+  }
+}
